@@ -45,8 +45,8 @@ run  ```npx run detox ```<br>
 run  ```detox build --configuration android.emu.debug ```<br>
 
 ## Authors
-Stella Garcia - stellaeg13@gmail.com <br>
-Jaden Evans - jadenmar85@gmail.com <br>
-Madeline Tharp - maddieetharp@gmail.com <br>
-Nathanael Oliver - nathanael.oliver437@gmail.com <br>
+Stella Garcia - _[obfuscated]_ <br>
+Jaden Evans - _[obfuscated]_ <br>
+Madeline Tharp - _[obfuscated]_ <br>
+Nathanael Oliver - _[obfuscated]_ <br>
 Ali Jamil - ateh3391@gmail.com
